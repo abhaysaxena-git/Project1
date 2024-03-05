@@ -9,6 +9,7 @@ body{
     width: 170px;
     background-color: black;
     border-radius: 12px;
+    box-shadow: 0 0 15px black;
 }
 .light{
     width: 80px;
